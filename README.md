@@ -8,5 +8,5 @@ Tugas:
   - Jalankan pytest di terminal anda dan pastikan sudah passed semua
 3. Setelah passed, buka terminal dan lakukan langkah berikut:
   - git add .
-  - git commit -m "<NIM>"
+  - git commit -m "[NIM Anda]"
   - git push origin main
